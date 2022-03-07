@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: lightblue;
+    background-size: cover;
+}
+
+.content {
+    width: 450px;
+    background: rgba(255,255,255, 0.3);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    font-family: sans-serif;
+}
+
+.content h1 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+.content h3 {
+    font-size: 20px;
+    font-weight: 50;
+}
+
+.content p{
+    text-align: left;
+}
+
+.headshot {
+    border-radius: 50%;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+.content li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
