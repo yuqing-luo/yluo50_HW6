@@ -44,3 +44,7 @@ ul{
     margin: 6px;
     list-style: none;
 }
+
+.content li a{
+    color:mediumblue;
+}
