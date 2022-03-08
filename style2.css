@@ -1,5 +1,8 @@
 .photo{
-    width: 250px;
+    width: 300px;
+    float: right;
+    margin-right: 70px;
+    margin-top: 30px;
 }
 
 table {
@@ -29,5 +32,11 @@ tr:nth-child(even) {
 
 tr:nth-child(odd) {
     background-color: white;
+}
+
+.left {
+    margin-left: 70px;
+    margin-top: 30px;
+    font-family: sans-serif;
 }
 
